@@ -28,4 +28,3 @@ function insertionSort(arr) {
     return arr;
 }
 ```
-<a name="4BzUU"></a>
